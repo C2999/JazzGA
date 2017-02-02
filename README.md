@@ -1,5 +1,5 @@
 # JazzGA
-A genetic algorithm sequence coded in python and max. The program uses OSC to communicate between the alogrithm(python) and the synthesizer(max). MIT's music21 was used for parsing the xml score into note objects, and the python package simpleOSC was used for basic open sound control setup. 
+A genetic algorithm sequencer coded in python and max. The program uses OSC to communicate between the alogrithm(python) and the synthesizer(max). MIT's music21 was used for parsing the xml score into note objects, and the python package simpleOSC was used for basic open sound control setup. 
 
 # Requirements
 pyOSC installed
